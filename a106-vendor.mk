@@ -12,4 +12,4 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-$(call inherit-product, vendor/highscreen/giraffe/giraffe-vendor-blobs.mk)
+$(call inherit-product, vendor/micromax/a106/a106-vendor-blobs.mk)

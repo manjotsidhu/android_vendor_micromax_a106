@@ -1,1 +1,1 @@
-# android_vendor_highscreen_giraffe
+# android_vendor_micromax_a106
