@@ -29,7 +29,9 @@ PRODUCT_COPY_FILES += \
     vendor/micromax/a106/proprietary/bin/muxreport:system/bin/muxreport \
     vendor/micromax/a106/proprietary/bin/nvram_daemon:system/bin/nvram_daemon \
     vendor/micromax/a106/proprietary/bin/nvram_agent_binder:system/bin/nvram_agent_binder \
+    vendor/micromax/a106/proprietary/bin/sdcard:system/bin/sdcard \
     vendor/micromax/a106/proprietary/bin/thermal_manager:system/bin/thermal_manager \
+    vendor/micromax/a106/proprietary/bin/vold:system/bin/vold \
     vendor/micromax/a106/proprietary/bin/wmt_loader:system/bin/wmt_loader \
     vendor/micromax/a106/proprietary/bin/wpa_supplicant:system/bin/wpa_supplicant \
     vendor/micromax/a106/proprietary/etc/firmware/ROMv1_patch_1_0_hdr.bin:system/etc/firmware/ROMv1_patch_1_0_hdr.bin \
